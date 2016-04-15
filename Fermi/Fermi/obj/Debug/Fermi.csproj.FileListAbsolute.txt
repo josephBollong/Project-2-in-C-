@@ -1,0 +1,9 @@
+C:\Users\Hitori\AppData\Local\Temporary Projects\Fermi\bin\Debug\Fermi.exe.config
+C:\Users\Hitori\AppData\Local\Temporary Projects\Fermi\bin\Debug\Fermi.exe
+C:\Users\Hitori\AppData\Local\Temporary Projects\Fermi\bin\Debug\Fermi.pdb
+C:\Users\Hitori\AppData\Local\Temporary Projects\Fermi\obj\Debug\Fermi.csprojResolveAssemblyReference.cache
+C:\Users\Hitori\AppData\Local\Temporary Projects\Fermi\obj\Debug\Fermi.GUI.resources
+C:\Users\Hitori\AppData\Local\Temporary Projects\Fermi\obj\Debug\Fermi.Properties.Resources.resources
+C:\Users\Hitori\AppData\Local\Temporary Projects\Fermi\obj\Debug\Fermi.csproj.GenerateResource.Cache
+C:\Users\Hitori\AppData\Local\Temporary Projects\Fermi\obj\Debug\Fermi.exe
+C:\Users\Hitori\AppData\Local\Temporary Projects\Fermi\obj\Debug\Fermi.pdb
